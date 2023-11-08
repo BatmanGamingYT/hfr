@@ -1,31 +1,7 @@
-# hfr/Clowder Mod
+# Clowder Mod
 
-what have i done lmao
+A faction mod that LabJac gave me back in 2021 after i asked him on discord.
 
-# List of folder directories i have completed
+i forgot i had the file and didnt know what to do, so i just uploaded the files on github for my own sake of if i lose the file.
 
-util - done
-tmt - done
-tileentity - done
-sound - done
-schematic - done
-rvi - done
-render - not done
-potion - done
-pon4 - done
-packet - done
-main - done
-loader - done
-lib - done
-items - done
-inventory - done
-handler - done
-entity - done
-effect - done
-dim - done
-data - done
-config - done
-command - done
-clowder - done
-blocks - not done
-ai - done
+As of right now all files uploaded excecpt for the blocks and render folder
